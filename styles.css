@@ -10,7 +10,7 @@ i-icon {
 
 body {
     /* background: rgb(38, 39, 39); */
-    background-image: url(/background01.png);
+    background-image: url(./background01.png);
     /* COVER IMPORTANT  */
     background-size: cover;
     background-repeat: no-repeat;
